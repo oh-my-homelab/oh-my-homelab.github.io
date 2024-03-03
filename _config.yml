@@ -11,4 +11,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: 万物皆可Homelab
-theme: jekyll-theme-chirpy
+remote_theme:     sighingnow/jekyll-gitbook
