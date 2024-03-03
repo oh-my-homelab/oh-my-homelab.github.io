@@ -1,4 +1,3 @@
-![img](https://mmbiz.qpic.cn/mmbiz_png/E8yb1gQ3rpAic3tBUlFCmHJcZCibiaWib893fhYHQwwVICNHtazn3hDB1JiaUcb2MibdqTDznyGw9PVGGCeDWv00YvNA/640?wx_fmt=png)
 
 最近在学习K8S，一如既往，先从网络入手以输出倒逼输入。开启K8S网络系列的第一篇：
 
