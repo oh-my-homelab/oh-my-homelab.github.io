@@ -1,5 +1,3 @@
-plugins:
-  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
@@ -13,5 +11,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: 万物皆可Homelab
-theme: jekyll-theme-cayman
-url: "https://oh-my-homelab.github.io/"
+remote_theme:     sighingnow/jekyll-gitbook
